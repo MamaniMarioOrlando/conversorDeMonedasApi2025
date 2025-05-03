@@ -1,0 +1,1 @@
+# conversorDeMonedasApi2025
