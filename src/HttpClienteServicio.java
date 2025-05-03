@@ -19,6 +19,8 @@ public class HttpClienteServicio {
         } catch (IOException | InterruptedException e) {
             System.out.println("Error en la consulta HTTP: "+ e.getMessage());
             return Optional.empty();
+
+
         }
     }
 }
